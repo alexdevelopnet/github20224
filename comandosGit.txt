@@ -7,3 +7,6 @@ git config --global user.name "alexdevelopnet"
 ----------------------------------------------------
 git add *
 git commit -m "inicio"
+
+enviando  o diretorio local para o remoto
+git remot add origin https://github.com/alexdevelopnet/github20224.git
