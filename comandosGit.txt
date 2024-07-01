@@ -5,5 +5,5 @@ git config --global user.email "alexfnet@gmail.com"
 git config --global user.name "alexdevelopnet"
 
 ----------------------------------------------------
-git add*
+git add *
 git commit -m "inicio"
